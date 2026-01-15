@@ -68,13 +68,13 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/mobile.svg" alt="Mobile" width="24" /> useIsMobile
+### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/mobile.svg" alt="Mobile" width="24" /> useismobile
 
 **React hook for mobile screen detection**
 
-[![GitHub stars](https://img.shields.io/github/stars/tufantunc/useIsMobile?style=social)](https://github.com/tufantunc/useIsMobile/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/tufantunc/useismobile?style=social)](https://github.com/tufantunc/useismobile/stargazers)
 
-[View Project →](https://github.com/tufantunc/useIsMobile)
+[View Project →](https://github.com/tufantunc/useismobile)
 
 ---
 
