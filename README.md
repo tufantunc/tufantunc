@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/main/assets/istanbul-skyline.svg" alt="Istanbul Skyline" width="600" />
+  <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/istanbul-skyline.svg" alt="Istanbul Skyline" width="600" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/main/assets/rocket.svg" alt="Rocket" width="24" /> SSH MCP Server ⭐ 213
+### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/rocket.svg" alt="Rocket" width="24" /> SSH MCP Server ⭐ 213
 
 **MCP server exposing SSH control for Linux servers via Model Context Protocol**
 
@@ -56,7 +56,7 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/main/assets/leaf.svg" alt="Leaf" width="24" /> OpenTwig 🌿
+### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/leaf.svg" alt="Leaf" width="24" /> OpenTwig 🌿
 
 **Open source link in bio page generator**
 
@@ -68,7 +68,7 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/main/assets/mobile.svg" alt="Mobile" width="24" /> useIsMobile
+### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/mobile.svg" alt="Mobile" width="24" /> useIsMobile
 
 **React hook for mobile screen detection**
 
@@ -78,7 +78,7 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 ---
 
-### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/main/assets/terminal.svg" alt="Terminal" width="24" /> Node Console Success
+### <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/terminal.svg" alt="Terminal" width="24" /> Node Console Success
 
 **Console utility for colored success messages**
 
@@ -125,5 +125,5 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/main/assets/wave.svg" alt="Wave" width="200" />
+  <img src="https://raw.githubusercontent.com/tufantunc/tufantunc/refs/heads/master/assets/wave.svg" alt="Wave" width="200" />
 </p>
