@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" fill="none">
+  <defs>
+    <!-- Sky Gradient: magical sunset -->
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2c3e50" />
+      <stop offset="50%" stop-color="#8e44ad" />
+      <stop offset="100%" stop-color="#ff9966" />
+    </linearGradient>
+    
+    <!-- Water Gradient -->
+    <linearGradient id="waterGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3498db" />
+      <stop offset="100%" stop-color="#2980b9" />
+    </linearGradient>
+
+    <!-- Sun Glow -->
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f1c40f" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#f39c12" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background: Sky -->
+  <rect width="800" height="250" fill="url(#skyGradient)" />
+  
+  <!-- Stars -->
+  <circle cx="100" cy="50" r="1" fill="white" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="250" cy="30" r="1.5" fill="white" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="500" cy="60" r="1" fill="white" opacity="0.7"><animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="700" cy="40" r="1.2" fill="white" opacity="0.4"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="5s" repeatCount="indefinite"/></circle>
+
+  <!-- Sun/Moon setting -->
+  <circle cx="650" cy="180" r="40" fill="url(#sunGlow)" opacity="0.6" />
+
+  <!-- Background Hills -->
+  <path d="M0 200 Q 200 160 400 200 T 800 190 V 250 H 0 Z" fill="#2c3e50" opacity="0.3" />
+
+  <!-- Bosphorus Bridge -->
+  <path d="M0 160 C 200 180 600 180 800 160" stroke="#e0e0e0" stroke-width="2" fill="none" opacity="0.6" stroke-dasharray="5,3"/>
+  <line x1="150" y1="165" x2="150" y2="250" stroke="#34495e" stroke-width="4" />
+  <line x1="650" y1="165" x2="650" y2="250" stroke="#34495e" stroke-width="4" />
+  <!-- Bridge suspenders -->
+  <line x1="200" y1="168" x2="200" y2="160" stroke="#e0e0e0" stroke-width="0.5" opacity="0.4"/>
+  <line x1="250" y1="172" x2="250" y2="160" stroke="#e0e0e0" stroke-width="0.5" opacity="0.4"/>
+  <line x1="300" y1="174" x2="300" y2="160" stroke="#e0e0e0" stroke-width="0.5" opacity="0.4"/>
+  <line x1="500" y1="174" x2="500" y2="160" stroke="#e0e0e0" stroke-width="0.5" opacity="0.4"/>
+  <line x1="550" y1="172" x2="550" y2="160" stroke="#e0e0e0" stroke-width="0.5" opacity="0.4"/>
+  <line x1="600" y1="168" x2="600" y2="160" stroke="#e0e0e0" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- City Skyline Silhouette (Right Side - Asian Sideish) -->
+  <path d="M500 200 L510 180 L520 200 L530 170 L550 200 L580 160 L610 200 Z" fill="#34495e" opacity="0.8" />
+  
+  <!-- Galata Tower (Left Side - European Side) -->
+  <path d="M120 200 L120 130 L100 130 L100 200 Z" fill="#2c3e50" /> <!-- Base -->
+  <path d="M95 130 L125 130 L110 100 Z" fill="#2c3e50" /> <!-- Cone Roof -->
+  <rect x="105" y="135" width="10" height="50" fill="#f1c40f" opacity="0.3" rx="2" /> <!-- Windows light -->
+
+  <!-- Hagia Sophia / Blue Mosque Style (Center-Left) -->
+  <path d="M300 200 L300 150 C 300 130 350 130 350 150 L350 200" fill="#2c3e50" /> <!-- Main Dome -->
+  <path d="M280 200 L280 160 C 280 150 300 150 300 160" fill="#2c3e50" /> <!-- Semi Dome Left -->
+  <path d="M350 160 C 350 150 370 150 370 160 L370 200" fill="#2c3e50" /> <!-- Semi Dome Right -->
+  <!-- Minarets -->
+  <rect x="270" y="140" width="4" height="60" fill="#2c3e50" />
+  <path d="M268 140 L272 125 L276 140 Z" fill="#2c3e50" />
+  <rect x="376" y="140" width="4" height="60" fill="#2c3e50" />
+  <path d="M374 140 L378 125 L382 140 Z" fill="#2c3e50" />
+
+  <!-- Water -->
+  <rect x="0" y="200" width="800" height="50" fill="url(#waterGradient)" />
+  
+  <!-- Waves -->
+  <path d="M0 210 Q 20 205 40 210 T 80 210 T 120 210" stroke="white" stroke-opacity="0.2" fill="none"/>
+  <path d="M100 220 Q 120 215 140 220 T 180 220 T 220 220" stroke="white" stroke-opacity="0.2" fill="none"/>
+  <path d="M300 230 Q 320 225 340 230 T 380 230" stroke="white" stroke-opacity="0.2" fill="none"/>
+
+  <!-- Maiden's Tower (Kız Kulesi) - On the water, smaller -->
+  <rect x="450" y="180" width="20" height="20" fill="#ecf0f1" stroke="#2c3e50" stroke-width="1"/> <!-- Base -->
+  <path d="M445 200 L475 200 L470 210 L450 210 Z" fill="#2c3e50" /> <!-- Island base -->
+  <rect x="455" y="165" width="10" height="15" fill="#ecf0f1" stroke="#2c3e50" stroke-width="1"/> <!-- Tower body -->
+  <path d="M455 165 L460 155 L465 165 Z" fill="#c0392b" /> <!-- Roof -->
+  <line x1="460" y1="155" x2="460" y2="150" stroke="#2c3e50" width="1" /> <!-- Flag pole -->
+
+  <!-- Cute Ferry (Vapur) -->
+  <g transform="translate(600, 210)">
+    <path d="M0 0 L50 0 L45 15 L5 15 Z" fill="#ecf0f1" /> <!-- Hull -->
+    <rect x="10" y="-10" width="30" height="10" fill="#f1c40f" /> <!-- Cabin -->
+    <rect x="15" y="-20" width="5" height="10" fill="#34495e" /> <!-- Chimney -->
+    <circle cx="17.5" cy="-25" r="3" fill="#95a5a6" opacity="0.6"><animate attributeName="cy" values="-25;-35" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2s" repeatCount="indefinite"/></circle> <!-- Smoke -->
+    <animateTransform attributeName="transform" type="translate" from="600 210" to="500 210" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Seagulls -->
+  <g stroke="white" stroke-width="1.5" fill="none" opacity="0.9">
+    <path d="M150 50 Q155 45 160 50 Q165 45 170 50">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M180 70 Q185 65 190 70 Q195 65 200 70">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M600 90 Q605 85 610 90 Q615 85 620 90" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

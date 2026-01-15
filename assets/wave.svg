@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <path d="M10 40 Q50 20 100 40 T190 40" stroke="#3B82F6" stroke-width="3" fill="none" opacity="0.5">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite"
+      values="M10 40 Q50 20 100 40 T190 40;M10 40 Q50 50 100 30 T190 40;M10 40 Q50 20 100 40 T190 40"/>
+  </path>
+  <path d="M10 45 Q50 35 100 45 T190 45" stroke="#10B981" stroke-width="2" fill="none" opacity="0.4">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="M10 45 Q50 35 100 45 T190 45;M10 45 Q50 50 100 35 T190 45;M10 45 Q50 35 100 45 T190 45"/>
+  </path>
+  <text x="100" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#6B7280">Thanks for visiting!</text>
+</svg>
