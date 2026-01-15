@@ -82,10 +82,10 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 **Console utility for colored success messages**
 
-[![GitHub stars](https://img.shields.io/github/stars/tufantunc/node-console-success?style=social)](https://github.com/tufantunc/node-console-success/stargazers)
-[![npm version](https://img.shields.io/npm/v/node-console-success?style=flat)](https://www.npmjs.com/package/node-console-success)
+[![GitHub stars](https://img.shields.io/github/stars/tufantunc/console-success?style=social)](https://github.com/tufantunc/console-success/stargazers)
+[![npm version](https://img.shields.io/npm/v/console-success?style=flat)](https://www.npmjs.com/package/console-success)
 
-[View Project →](https://github.com/tufantunc/node-console-success)
+[View Project →](https://github.com/tufantunc/console-success)
 
 ---
 
