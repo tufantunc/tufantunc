@@ -88,8 +88,6 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 [View Project →](https://github.com/tufantunc/console-success)
 
----
-
 </div>
 
 ---
