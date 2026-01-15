@@ -73,6 +73,7 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 **React hook for mobile screen detection**
 
 [![GitHub stars](https://img.shields.io/github/stars/tufantunc/useismobile?style=social)](https://github.com/tufantunc/useismobile/stargazers)
+[![npm version](https://img.shields.io/npm/v/useismobile?style=flat)](https://www.npmjs.com/package/useismobile)
 
 [View Project →](https://github.com/tufantunc/useismobile)
 
@@ -82,7 +83,7 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 **Console utility for colored success messages**
 
-[![GitHub stars](https://img.shields.io/github/stars/tufantunc/console-success?style=social)](https://github.com/tufantunc/console-success/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/tufantunc/node-console-success?style=social)](https://github.com/tufantunc/console-success/stargazers)
 [![npm version](https://img.shields.io/npm/v/console-success?style=flat)](https://www.npmjs.com/package/console-success)
 
 [View Project →](https://github.com/tufantunc/console-success)
