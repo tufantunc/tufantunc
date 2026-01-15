@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tufantunc">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Tufan+Tunç+%F0%9F%91%8B;Front+End+Developer+%26+Web+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Tufan+Tunç+%F0%9F%91%8B;Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
