@@ -93,18 +93,6 @@ I'm currently focusing on **agentic coding** and **AI tools** that improve softw
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tufantunc&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=6B7280&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufantunc&layout=compact&hide_border=true&title_color=3B82F6&text_color=6B7280&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
